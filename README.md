@@ -1,2 +1,1 @@
-# Donat-bahasa-C
-Siapa yang tidak suka donatt?
+baca readme buat apa? masa run c aja ga bisa
